@@ -1,9 +1,9 @@
 # Hello Git
 Hello Git repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+This is an example repository for the Git tutorial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 
 Practice
 
-Change some text from local repository
+Change some text from the local repository
